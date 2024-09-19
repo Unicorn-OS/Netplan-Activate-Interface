@@ -2,5 +2,5 @@
   vars:
     # devel: true
   roles:
-    - UniInc.Netplan-ethernet-interface
+    - UniInc.Netplan-Ethernet-activate
 
