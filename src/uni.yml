@@ -1,0 +1,6 @@
+- hosts: server
+  vars:
+    # devel: true
+  roles:
+    - UniInc.Netplan-ethernet-interface
+
